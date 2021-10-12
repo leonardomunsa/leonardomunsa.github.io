@@ -1,4 +1,4 @@
-let finalContrato = new Date("Feb 17, 2022 23:59:59").getTime();
+let finalContrato = new Date("Dec 9, 2021 23:59:59").getTime();
 
 let countDown = setInterval(function() {
     let agora = new Date().getTime();
